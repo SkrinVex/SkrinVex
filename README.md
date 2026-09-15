@@ -18,7 +18,7 @@
 * 🔊 **[SyncWave](https://github.com/SkrinVex/SyncWave)** — Self-hosted сервис для стриминга и синхронизации треков из YouTube Music. Единый бинарник и чистый веб-интерфейс.
 * 🧩 **[SkriCode](https://github.com/SkrinVex/SkriCode)** — Мобильный блоковый конструктор для быстрой сборки прототипов игр и приложений.
 * 🖥️ **[desk-mgr](https://github.com/SkrinVex/desk-mgr)** — GUI-менеджер `.desktop` файлов для Linux. Наведение порядка в ярлыках рабочего стола без ручной правки конфигов.
-* 🐕 **[FoxLang](https://github.com/SkrinVex/FoxLang)** — Экспериментальный язык программирования и сопутствующий тулинг.
+* 🦊 **[FoxLang](https://github.com/SkrinVex/FoxLang)** — Экспериментальный язык программирования и сопутствующий тулинг.
 * 💬 **[Skryvex](https://github.com/SkrinVex/Skryvex)** — Кроссплатформенный мессенджер на Flutter.
 
 ---
